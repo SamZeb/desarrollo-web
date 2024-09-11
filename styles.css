@@ -1,0 +1,51 @@
+/* h1 {
+
+}
+
+.subtitulo {
+
+}
+
+#titulo {
+
+} */
+
+h1 {
+    color:aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+#facebook a{
+    background-color: #3b5998;
+}
+
+#instagram a{
+    background-color: #D43089;
+}
+
+#discord a{
+    background-color:  #7289da;
+}
+
+#twitch a{
+    background-color: #6441a5;
+}
+
+#youtube a{
+    background-color: #FF0000;
+}
+
+img {
+    width: 500px;
+}
