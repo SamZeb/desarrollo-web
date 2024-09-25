@@ -21,6 +21,57 @@ ul {
 
 header {
     display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    align-items: center;
+}
+
+.header-list-item {
+    margin-right: 7.5px;
 }
 
 /* /HEADER */
+
+#final {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+footer {
+    background-color: grey;
+}
+
+.imagen {
+    width: 150px;
+}
+
+.derechos {
+    text-align: center;
+}
+
+/* /FOOTER */
+
+.productos {
+    width: 80%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.seccion {
+   display: flex;
+   justify-content: space-around;
+   
+}
+
+.precios {
+    text-align: end;
+}
+
+.articulos {
+    width: 250px;
+    border: 2px solid grey;
+}
+
